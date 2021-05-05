@@ -2,7 +2,20 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## The challenge
+## Table of content
+
+
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+    - [Links](#links)
+   - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
+
+### The challenge
 
 Users should be able to:
 
@@ -24,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to root CSS variables, which was customize it for use for the project. it was really awesome like the pattern and will use it going forward 
+I learned how to root CSS variables, which i was able to customize for use for the project. it was awesome like the pattern and will use it going forward.
 
 
 ```css
@@ -43,7 +56,7 @@ I learnt how to root CSS variables, which was customize it for use for the proje
 
 ### Useful resources
 
-- [Goole font](https://wwww.Googlefont.com) - This helped me to get the exact font family and font font weight instructed in thie ptoject. I really liked this pattern and will use it going forward.
+- [Google font](https://wwww.Googlefont.com) - This helped me to get the exact font family and font weight instructed in the project. I liked this pattern and will use it going forward.
 
 ## Author
 
@@ -53,5 +66,5 @@ I learnt how to root CSS variables, which was customize it for use for the proje
 
 ## Acknowledgments
 
-I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say u guys are the best.
+I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say you guys are the best.
 
