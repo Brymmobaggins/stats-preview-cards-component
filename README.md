@@ -53,5 +53,5 @@ I learnt how to root CSS variables, which was customize it for use for the proje
 
 ## Acknowledgments
 
-I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say u guys are the best.
+I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow frontend mentor [Slack community](https://www.frontendmentor.io/slack). I would say u guys are the best.
 
