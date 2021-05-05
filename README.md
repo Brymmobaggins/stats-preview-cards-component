@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://your-solution-url.com)
+- Live Site URL: [Here](https://brymmobaggins.github.io/stats-preview-cards-component/)
 
 ## My process
 
@@ -56,7 +56,11 @@ I learned how to root CSS variables, which i was able to customize for use for t
 
 ### Useful resources
 
+<<<<<<< HEAD
 - [Google font](https://wwww.Googlefont.com) - This helped me to get the exact font family and font weight instructed in the project. I liked this pattern and will use it going forward.
+=======
+- [Google font](https://wwww.Googlefont.com) - This helped me to get the exact font family and font font weight instructed in thie ptoject. I really liked this pattern and will use it going forward.
+>>>>>>> 6b7e71847bbb782eca91d65bfbdd3bd684b1693c
 
 ## Author
 
@@ -66,5 +70,9 @@ I learned how to root CSS variables, which i was able to customize for use for t
 
 ## Acknowledgments
 
+<<<<<<< HEAD
 I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say you guys are the best.
+=======
+I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow frontend mentor [Slack community](https://www.frontendmentor.io/slack). I would say you guys are the best.
+>>>>>>> 6b7e71847bbb782eca91d65bfbdd3bd684b1693c
 
