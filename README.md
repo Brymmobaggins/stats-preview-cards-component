@@ -2,20 +2,7 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of content
-
-
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-    - [Links](#links)
-   - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
-
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -23,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-built-with-html-and-css-nWyWvaucY)
 - Live Site URL: [Here](https://brymmobaggins.github.io/stats-preview-cards-component/)
 
 ## My process
@@ -66,5 +53,5 @@ I learned how to root CSS variables, which I was able to customize for the proje
 
 ## Acknowledgments
 
-I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say you guys are the best.
+I would like to give credit to [Guillaume Fontorbe](https://www.frontendmentor.io/profile/GuillaumeFontorbe) and [brasspetals](https://www.frontendmentor.io/profile/brasspetals) with the help and inspiration from his solution and fellow [Slack community](https://www.frontendmentor.io/slack). I would say you guys are the best.
 
